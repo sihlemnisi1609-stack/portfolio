@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" href="style.css"></head>
+<body>
+    <h1>Mfundo Mnisi</h1>
+    <p>Software Developer & Student</p>
+    <a href="https://github.com/sihlemnisi1609-stack">My GitHub</a>
+</body>
+</html>
